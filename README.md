@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with ???
 - 💬 Ask me about Biology 🍀
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: Just a biologist trying to program
+- ⚡ Fun fact: Just a biologist trying to code
 
 <div> 
   <a href="https://www.instagram.com/raul_sntn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
